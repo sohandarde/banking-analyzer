@@ -52,3 +52,6 @@ This project was built collaboratively by a team of three:
 2. **Sort Data:** Select a key (e.g., Amount) from the dropdown and click Sort. View the metrics modal to see how many recursive calls the Merge Sort took.
 3. **Search Data:** Select a key and enter a value. *Note: The system will intentionally block your search if you haven't sorted by that specific key first.*
 4. **View Reports:** Check the analytics section to see computed extremes and customer balances.
+   
+   
+   
